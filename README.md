@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eyüp Ensar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theyyo44&label=Profile%20views&color=2e358e&style=plastic" alt="theyyo44" /> </p>
 
-- 🌱 I’m currently learning **data engineer**
+- 🌱 I’m currently learning **data engineering**
 
 - 📫 How to reach me **eyupensar89544@gmail.com**
 
